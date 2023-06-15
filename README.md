@@ -42,6 +42,6 @@ We only collect the following information submitted and will not use or share fo
 
 # Application Form
 
-To apply, please click the following application [link](https://docs.google.com/forms/d/e/1FAIpQLSf-6EXf4EkLRPHc5a2UutAHhS_pN4IpYAZyUnJeP7Xe4_TzvQ/viewform)).
+To apply, please click the following application [link](https://docs.google.com/forms/d/e/1FAIpQLSf-6EXf4EkLRPHc5a2UutAHhS_pN4IpYAZyUnJeP7Xe4_TzvQ/viewform).
 
 
