@@ -13,4 +13,35 @@ There are 2 ways that Planetarium can help fund teams:
 - Teams may be rewarded retroactively for their efforts and without the need for an application. This will be purely based on historical results and community impact.
 - Teams actively apply via this program in order to get paid as they work, on a milestone-by-milestone basis.
 
+# Grant Offer
+
+We award grants for incentivize team to develop the Nine Chronicles ecosystem. We offer a mixture of NCG and fiat currency depending on the project’s needs.
+
+# Criteria
+
+The following is our list of criteria for assessing teams to fund. 
+
+- Ideal length: 3 months.
+    - Best to structure the work as 1 month = 1 milestone.
+- Open source license preferred
+    - e.g. Apache 2, MIT, GPLv3.
+- Teams shouldn’t look to cover all of their development costs with a grant.
+- Teams should indicate why they are interested in supporting the Nine Chronicles Ecosystem and indicate why their team is a good fit.
+
+# **How to apply**
+
+- Fill in the application form below with all the necessary details.
+- One question in the application form requires creating a Google Document (or similar) that includes the following information:
+    - Tell us a bit about your project goals, motivations, needs, challenges, and any other information you feel is pertinent for us to know.
+    - Include a roadmap that details the software specification over a number of milestones.
+    - Here is a template for the document: [link](https://www.notion.so/278bedc0e25b4d549f876586f7bfe0ae?pvs=21).
+- Once we’ve had a chance to review your application we will respond with any necessary changes.
+- Completed proposals will be reviewed at the next committee meeting and then we will let teams know if they have been successful with their application. You'll hear back from someone on the Ecosystem Support team very soon!
+
+We only collect the following information submitted and will not use or share for any purposes other than evaluation.
+
+# Application Form
+
+To apply, please see the following application form (also available at this [link](https://docs.google.com/forms/d/e/1FAIpQLSf-6EXf4EkLRPHc5a2UutAHhS_pN4IpYAZyUnJeP7Xe4_TzvQ/viewform)).
+
 
